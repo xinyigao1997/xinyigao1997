@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi there 👋 I am Xinyi (Sharon) Gao</h1>
 
-💼   Two Industry Internship Experiences
+💼    Two Industry Internship Experiences
 
-📫   Northeastern University, Master of Computer Science 
+📫    Northeastern University, Master of Computer Science 
 
-🌐   Passionate about optimizing software engineering practices to drive efficiencies in big data processing and enhancing user experience.
+🌐    Passionate about optimizing software engineering practices to drive efficiencies in big data processing and enhancing user experience.
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
